@@ -1,1 +1,3 @@
 # Bar-Management-App
+
+This app help bar owners to mannage their bars...
